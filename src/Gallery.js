@@ -55,7 +55,7 @@ const Gallery = () => {
         setText("01/01/2026. OUR FIRST TIME CELEBRATING THE NEW YEAR EVE TOGETHER");
         break;
       case 8:
-        setText("{DATE}. EXAMPLE TEXT (write something romantic for your partner/ something for your loved one) ");
+        setText("01/01/2026. MY FAV PICT OF YOUU!!");
         break;
       default:
         setText(":3");
