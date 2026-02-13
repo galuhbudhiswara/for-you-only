@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/for-you-only/static/css/main.f836641b.css",
-    "main.js": "/for-you-only/static/js/main.fbe2d83b.js",
+    "main.js": "/for-you-only/static/js/main.0aae2095.js",
     "static/js/787.e2b13f40.chunk.js": "/for-you-only/static/js/787.e2b13f40.chunk.js",
     "static/media/The_Moldy_Peaches_Anyone_Else_But_You.mp3": "/for-you-only/static/media/The_Moldy_Peaches_Anyone_Else_But_You.4ec587ee02fd4ef86b8c.mp3",
     "static/media/our-first-sleepover.png": "/for-you-only/static/media/our-first-sleepover.ce3338fb7910be92e0ce.png",
@@ -16,11 +16,11 @@
     "static/media/bg.jpg": "/for-you-only/static/media/bg.661d61269a536f369998.jpg",
     "index.html": "/for-you-only/index.html",
     "main.f836641b.css.map": "/for-you-only/static/css/main.f836641b.css.map",
-    "main.fbe2d83b.js.map": "/for-you-only/static/js/main.fbe2d83b.js.map",
+    "main.0aae2095.js.map": "/for-you-only/static/js/main.0aae2095.js.map",
     "787.e2b13f40.chunk.js.map": "/for-you-only/static/js/787.e2b13f40.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f836641b.css",
-    "static/js/main.fbe2d83b.js"
+    "static/js/main.0aae2095.js"
   ]
 }
