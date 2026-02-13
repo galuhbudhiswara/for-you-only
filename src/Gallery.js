@@ -46,10 +46,10 @@ const Gallery = () => {
         setText("07/12/2025. OUR FIRST SLEEPOVER\n like the title said... i cant really said anything about this, bukan karena kita aneh aneh ya tapi karena aku kan ngurusin kamu yang sakit doang pas pertama sleep over maa... kalo yang ketiga di apart aku sihh... tuturututtt ANYWAYYY even tho this our first and short sleep over i really enjoyy every second of it because u were there. in the whole year of 2025 this is what become the most precious times i've spent \n\n ps: we both know is not our pict from the first sleepover wkwkwk");
         break;
         case 5:
-          setText("20/12/2025 - 25/12/2025. OUR FIRST VACATION(?) TOGETHER");
+          setText("20/12/2025 - 25/12/2025. OUR FIRST VACATION(?) TOGETHER\n putting one pict for the entire week experience is kinda off lol. first thing first about this vacation (idk what to call it lmao) was the one thath making me feel like i need you so much in my life, it's only less than a week but u made me so happy. imagine if im spending my entire life together with you");
           break;
       case 6:
-        setText("31/12/2025. YOUR FIRST TIME VISIT ME IN MY APART");
+        setText("31/12/2025. YOUR FIRST TIME VISIT ME IN MY APART \n ");
         break;
       case 7:
         setText("01/01/2026. OUR FIRST TIME CELEBRATING THE NEW YEAR EVE TOGETHER");
